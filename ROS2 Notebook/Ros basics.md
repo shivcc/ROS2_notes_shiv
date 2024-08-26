@@ -30,6 +30,7 @@ its better to use oop in making a node
 RCL- ROS client library in C : to use it use rclcpp and rclpy, rcl...  
 DDS- data distribution service
 
+* * *
 ### Renaming nodes
 
 - we can run nodes with the same name
@@ -40,14 +41,12 @@ DDS- data distribution service
     
 - refer to ros arguments
     
-
-&nbsp;
-
 - [ ] @TODO Make ros arguments note.
-
+* * *
 ### RQT 
 
 GUI tool to visualize nodes and topic communications. [Turtlesim](../ROS2%20Notebook/Turtlesim.md) for good demo.
+* * *
 
 ### Nodes, publishers and Subscribers
 The basic framework/components that make communications work in ROS2. More info in [Nodes, Publishers and Subscribers](../ROS2%20Notebook/Nodes,%20publishers,%20subscribers.md)
