@@ -47,3 +47,6 @@ DDS- data distribution service
 ### RQT 
 
 GUI tool to visualize nodes and topic communications. [Turtlesim](../ROS2%20Notebook/Turtlesim.md) for good demo.
+
+### Nodes, publishers and Subscribers
+The basic framework/components that make communications work in ROS2. More info in [Nodes, Publishers and Subscribers](../ROS2%20Notebook/Nodes,%20publishers,%20subscribers.md)
