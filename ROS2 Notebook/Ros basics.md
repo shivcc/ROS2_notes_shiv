@@ -7,6 +7,7 @@
 3.  It is easier to call the node by ros2 run my_pkg my_node
     
 4.  Setup colcon build and bash script [Colcon and bashrc](../ROS2%20Notebook/Colcon%20and%20bashrc.md)
+5.  More setup info [Setup](../ROS2%20Notebook/Setup.md)
     
 
 * * *
