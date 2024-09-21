@@ -1,3 +1,4 @@
+Tags: [[compile]], [[dependencies]]
 ## Setup files Python
 setup file is automatically created ie setup.py however you need to add the node in the entry point for the node to be compiled. For python the following is used;
 
@@ -74,4 +75,4 @@ You must define the dependencies usually rclcpp in the pakage.xml file
 ```
 
 ## Setup files C++
-- [ ] @TODO Make C++ setup notes
+- [ ] #TODO Make C++ setup notes

@@ -1,15 +1,16 @@
+Tag: [[ROS2]], [[node ros2]], [[oop]]
 # Ros basics 🤖
 
-1.  The name of the py file can be diffrent from the name of the node which can be diff from the name of the executible.
+1. You must [[Setup]] first.
+2. The name of the py file can be different from the name of the node which can be diff from the name of the executable.
     
-2.  The location of the node executible is at /ros2_ws/install/my_py_pkg/lib/my_py_pkg
+2.  The location of the node executable is at /ros2_ws/install/my_py_pkg/lib/my_py_pkg
     
 3.  It is easier to call the node by ros2 run my_pkg my_node
     
-4.  Setup colcon build and bash script [Colcon and bashrc](../ROS2%20Notebook/Colcon%20and%20bashrc.md)
-5.  More setup info [Setup](../ROS2%20Notebook/Setup.md)
+4.  Setup colcon build and bash script [Colcon and bashrc](Colcon%20and%20bashrc.md)
     
-
+5. Essential communications is done through Nodes, publishers, subscribers. See [[ROS2 Communications]]
 * * *
 
 ### Oop tips
@@ -21,7 +22,7 @@ its better to use oop in making a node
 - Init function will run when a class object is created but wont take callbacks
 - callbacks will be allowed if the next line is rclpy.spin(node)
 - same for c++
-- [OOP template](../ROS2%20Notebook/OOP%20template.md)
+- [OOP template](OOP%20template.md)
 
 * * *
 
@@ -29,24 +30,14 @@ its better to use oop in making a node
 
 RCL- ROS client library in C : to use it use rclcpp and rclpy, rcl...  
 DDS- data distribution service
+Check out [[ROS library]]
 
-* * *
-### Renaming nodes
+***
 
-- we can run nodes with the same name
-    
-- but we can also rename the nodes at launch
-    
-- ros2 run my_py_pkg py_demo_node --ros-args --remap \__node:=abc
-    
-- refer to ros arguments
-    
-- [ ] @TODO Make ros arguments note.
-* * *
+
+
+- [ ] #TODO Make ros arguments note.
+***
 ### RQT 
 
-GUI tool to visualize nodes and topic communications. [Turtlesim](../ROS2%20Notebook/Turtlesim.md) for good demo.
-* * *
-
-### Nodes, publishers and Subscribers
-The basic framework/components that make communications work in ROS2. More info in [Nodes, Publishers and Subscribers](../ROS2%20Notebook/Nodes,%20publishers,%20subscribers.md)
+GUI tool to visualize nodes and topic communications. [RQT](RQT.md) For more info

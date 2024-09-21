@@ -1,3 +1,4 @@
+Tags: [[oop]]
 # OOP Template for Your Nodes
 Here’s a template you can use for all your nodes. Make sure you understand what each line does by rewatching (if needed) the previous lectures.
 
@@ -49,3 +50,4 @@ int main(int argc, char **argv)
     return 0;
 }
 ```
+
