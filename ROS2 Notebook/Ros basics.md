@@ -2,17 +2,15 @@ Tag: [[ROS2]], [[node ros2]], [[oop]]
 # Ros basics 🤖
 
 1. You must [[Setup]] first.
-2. The name of the py file can be different from the name of the node which can be diff from the name of the executable.
-    
-2.  The location of the node executable is at /ros2_ws/install/my_py_pkg/lib/my_py_pkg
-    
-3.  It is easier to call the node by ros2 run my_pkg my_node
-    
-4.  Setup colcon build and bash script [Colcon and bashrc](Colcon%20and%20bashrc.md)
-    
-5. Essential communications is done through Nodes, publishers, subscribers. See [[ROS2 Communications]]
+2.  Setup colcon build and bash script [Colcon and bashrc](Colcon%20and%20bashrc.md)
+3. To make new package see [[Making new package]]
+4. Essential communications is done through Nodes, publishers, subscribers. See [[ROS2 Communications]]
 * * *
-
+### General tips
+ 1. The name of the py file can be different from the name of the node which can be diff from the name of the executable.  
+2. The location of the node executable is at /ros2_ws/install/my_py_pkg/lib/my_py_pkg
+3. It is easier to call the node by ros2 run my_pkg my_node
+---
 ### Oop tips
 
 its better to use oop in making a node

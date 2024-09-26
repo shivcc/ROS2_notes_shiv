@@ -5,3 +5,4 @@
 
 `from example_interfaces.msg import String`
 
+##### You can have messages inside messages (like a overall message which have other message types)

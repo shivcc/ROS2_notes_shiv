@@ -6,3 +6,4 @@ Tag: [[ROS2 Communications]]
 - Subscriber reads a topic
 - Refer to [[ROS2 Communications]] for more info.
 - Avoid capitals in topic names
+- topic name must not start with a number

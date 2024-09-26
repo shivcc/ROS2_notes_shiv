@@ -9,4 +9,4 @@ Tags: [[ROS2]]
 
 ## Reference
 
-[[Solve control problem with ros2_control]]
+[[Video - Solve control problem with ros2_control]]
