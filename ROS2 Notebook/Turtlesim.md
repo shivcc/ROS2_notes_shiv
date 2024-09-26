@@ -5,5 +5,5 @@
 - Use arrows to go around, follow the keys for rotations.
 
 
-![2893623e4e7ee6f4286f5921bbd93beb.png](2893623e4e7ee6f4286f5921bbd93beb.png)
+![](https://github.com/shivcc/ROS2_notes_shiv/blob/main/_resources/2893623e4e7ee6f4286f5921bbd93beb.png)
 - 2 nodes exchanging information through 3 topics
