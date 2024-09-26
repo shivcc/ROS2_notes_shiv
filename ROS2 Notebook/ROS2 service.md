@@ -11,7 +11,7 @@ Tags: [[ROS2 Communications]]
 - The service type are interfaces which includes *request and response* variables whose type are defined.
 #### Analogy; Weather service
 
-![[ros2-service-analogy.png]]
+![ros2-service-analogy.png](https://github.com/shivcc/ROS2_notes_shiv/blob/main/_resources/ros2-service-analogy.png)
 
 ### Write a service client and server
 #### Service server
