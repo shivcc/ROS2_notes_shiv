@@ -24,4 +24,4 @@ Tags: [[ROS2 Communications]], [[node ros2]]
 
 ## Flowchart summary
 
-![43e34e627e3d68acc970cb89f39d0abb.png](43e34e627e3d68acc970cb89f39d0abb.png)
+![43e34e627e3d68acc970cb89f39d0abb.png](https://github.com/shivcc/ROS2_notes_shiv/blob/main/_resources/43e34e627e3d68acc970cb89f39d0abb.png)
