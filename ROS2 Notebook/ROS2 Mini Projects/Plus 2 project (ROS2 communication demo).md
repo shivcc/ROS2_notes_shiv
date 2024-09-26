@@ -172,7 +172,7 @@ main()
 ---
 ### RQT graph
 
-![[2_series_rqt.png]]
+![c](https://github.com/shivcc/ROS2_notes_shiv/blob/main/_resources/2_series_rqt.png)
 
 ### Lessons learnt
 
