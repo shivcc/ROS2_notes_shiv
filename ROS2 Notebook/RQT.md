@@ -10,15 +10,15 @@ Tags: [[ROS2 Communications]], [[topic debug tools]]
 
 ### RQT graph for a simple publisher and subscriber
 
-![[rqt_simple_pub_sub.png]]
+![rqt_simple_pub_sub.png](https://github.com/shivcc/ROS2_notes_shiv/blob/main/_resources/rqt_simple_pub_sub.png)
 
 
 ### RQT multi publisher and subscriber
 
-![[rqt_simple_pub_sub_multi.png]]
+![rqt_simple_pub_sub_multi.png](https://github.com/shivcc/ROS2_notes_shiv/blob/main/_resources/rqt_simple_pub_sub_multi.png)
 
 #### Ouptput looks like this:
-![[multi_pub_sub_output.png]]
+![multi_pub_sub_output.png](https://github.com/shivcc/ROS2_notes_shiv/blob/main/_resources/multi_pub_sub_output.png)
 
 
 ## Reference
