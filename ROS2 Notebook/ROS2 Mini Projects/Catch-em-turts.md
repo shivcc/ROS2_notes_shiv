@@ -79,7 +79,7 @@ Vector3  angular
 - 100 hz update subscriber and publisher
 - 
 #### Actual radian degrees vs turtlesim
-![[Pasted image 20241008180345.png]]
+![](https://github.com/shivcc/ROS2_notes_shiv/blob/main/_resources/Rad_circle.png)
 Turtle sim's theta angle is different from the actual representation where the top semicircle is taken as positive (0-pi), then flipped top down (-pi-0); so the order starting from right anticlockwise goes 0 to pi/-pi to 0.
 
 ### Turtle spawner/killer node
@@ -91,10 +91,10 @@ Turtle sim's theta angle is different from the actual representation where the t
 
 ## Final RQT graph
 
-![[Pasted image 20241009223330.png]]
+![Pasted image 20241009223330.png](https://github.com/shivcc/ROS2_notes_shiv/blob/main/_resources/rqt_catch_em_turt.png)
 
 ### Final behaviour
-![[Pasted image 20241009223541.png]]
+![Pasted image 20241009223541.png](https://github.com/shivcc/ROS2_notes_shiv/blob/main/_resources/catch_em_turt_demo.png)
 
 ## Code
 
